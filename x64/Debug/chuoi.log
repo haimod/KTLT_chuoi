@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ADMIN\Desktop\BT_KTLT\chuoi\Source.cpp(84,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\BT_KTLT\chuoi\Source.cpp(113,19): warning C4305: 'argument': truncation from 'int' to 'char'
+C:\Users\ADMIN\Desktop\BT_KTLT\chuoi\Source.cpp(113,15): warning C4309: 'argument': truncation of constant value
+  chuoi.vcxproj -> C:\Users\ADMIN\Desktop\BT_KTLT\chuoi\x64\Debug\chuoi.exe
